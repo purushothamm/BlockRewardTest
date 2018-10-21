@@ -1,0 +1,11 @@
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.csproj.CoreCompileInputs.cache
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.AssemblyInfoInputs.cache
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.AssemblyInfo.cs
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\bin\Debug\netcoreapp2.1\BlockRewardTest.deps.json
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\bin\Debug\netcoreapp2.1\BlockRewardTest.runtimeconfig.json
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\bin\Debug\netcoreapp2.1\BlockRewardTest.runtimeconfig.dev.json
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\bin\Debug\netcoreapp2.1\BlockRewardTest.dll
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\bin\Debug\netcoreapp2.1\BlockRewardTest.pdb
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.dll
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.pdb
+C:\A Drive\VS projects\BlockRewardTest\BlockRewardTest\obj\Debug\netcoreapp2.1\BlockRewardTest.csprojAssemblyReference.cache
